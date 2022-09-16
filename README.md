@@ -1,2 +1,2 @@
 # rikunora01
-My trial repository
+My first trial repository
